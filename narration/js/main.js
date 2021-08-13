@@ -19,6 +19,7 @@ var imageList = [
 'images/story4-2.JPG',
 'images/story4-3.JPG',
 'images/story4-4.JPG'
+'images/fin.JPG'
 ]
 
 
