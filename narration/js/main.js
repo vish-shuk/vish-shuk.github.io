@@ -1,4 +1,27 @@
-var imageList = ['images/1.jpg', 'images/2.jpg', 'images/3.jpg'];
+var imageList = [
+'images/story1.JPG',
+'images/story1-1.JPG',
+'images/story1-2.JPG',
+'images/story1-3.JPG',
+'images/story1-4.JPG',
+'images/story2.JPG',
+'images/story2-1.JPG',
+'images/story2-2.JPG',
+'images/story2-3.JPG',
+'images/story2-4.JPG',
+'images/story3.JPG',
+'images/story3-1.JPG',
+'images/story3-2.JPG',
+'images/story3-3.JPG',
+'images/story3-4.JPG',
+'images/story4.JPG',
+'images/story4-1.JPG',
+'images/story4-2.JPG',
+'images/story4-3.JPG',
+'images/story4-4.JPG'
+]
+
+
 var curr = 0;
 
 function main() {
