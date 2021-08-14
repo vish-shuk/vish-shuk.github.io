@@ -1,4 +1,5 @@
 var imageList = [
+'images/cat-3.png',
 'images/story1.JPG',
 'images/story1-1.JPG',
 'images/story1-2.JPG',
